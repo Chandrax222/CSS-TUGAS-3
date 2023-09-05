@@ -1,0 +1,21 @@
+p.P_1 {
+    background-color: orange;
+    font-size: 0.8em;
+}
+
+p.P_2 {
+    background-color: blue;
+    color: white;
+    font-size: 0.8em;
+}
+
+p.P_3 {
+    font-family: monospace;
+    font-size: large;
+    border: 1.2px solid #000;
+}
+
+p.P_4 {
+    font-weight: 800;
+    background-color: grey;
+}
